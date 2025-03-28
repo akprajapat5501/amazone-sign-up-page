@@ -1,0 +1,37 @@
+.container{
+    width: 430px;
+    height: 700px;
+    margin: auto;
+    box-shadow: 0 0 10px gray;
+    /* background-color:  rgb(255, 231, 188); */
+}
+img{
+    width:150px;
+    display: block;
+    margin: auto;
+}
+.heading{
+    width: 350px;
+    height: 550px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px gray;
+    /* background-color:rgb(255, 236, 212); */
+}
+input{
+    width: 340px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+button{
+    width: 340px;
+    height: 30px;
+    display: block;
+    margin: auto;
+    background-color: #F4D382;
+    border-radius: 20px;
+}
+span{
+    color: rgb(36, 36, 221);
+}
